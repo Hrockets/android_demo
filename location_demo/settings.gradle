@@ -1,2 +1,0 @@
-include ':app', ':baidumap'
-rootProject.name='location_demo'
